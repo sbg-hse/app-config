@@ -1,0 +1,9 @@
+{
+  "hse_ms_app": {
+    "api_base_url": "https://api.hse-ms.com/api",
+    "image_base_url": "https://api.hse-ms.com"
+  },
+  "hse_exam_app": {
+    "api_base_url": "https://api.hse-ms.com/api"
+  }
+}
